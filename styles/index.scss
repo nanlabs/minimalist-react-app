@@ -1,0 +1,8 @@
+@import '../node_modules/reset-scss/reset.scss';
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+@import 'variables';
+
+body {
+  font-family: $font-family-base;
+  font-weight: $font-weight-base;
+}
